@@ -38,8 +38,8 @@
 
 ### 1. Obter o Código-Fonte
 ```bash
-git clone https://github.com/seu-usuario/aurora-auction-house.git
-cd aurora-auction-house
+git clone [https://github.com/seu-usuario/aurora-auction-house.git](https://github.com/VictorVolpi/leilao.git)
+https://leilao-kappa.vercel.app/
 ```
 ---
 
